@@ -7,7 +7,7 @@ sites:
     url: https://quickapps.ca
   - name: Time Now
     url: https://www.thetimenow.com/
-  - name: Fake Website
+  - name: Citybook Help
     url: https://help.citybook.co.il
 
 status-website:
