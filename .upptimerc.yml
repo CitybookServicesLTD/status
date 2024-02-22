@@ -19,7 +19,6 @@ sites:
     url: https://fg.mi.citybook.co.il
     __dangerous__insecure: true
     check: "tcp-ping"
-    __dangerous__insecure: true
   - name: FG MI TCP HTTPS 443
     url: https://fg.mi.citybook.co.il
     check: "tcp-ping"
