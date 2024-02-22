@@ -9,6 +9,22 @@ sites:
     url: https://www.thetimenow.com/
   - name: Citybook Help
     url: https://help.citybook.co.il
+  - name: FG MI HTTPS
+    url: https://fg.mi.citybook.co.il
+    __dangerous__insecure: true
+  - name: FG MI HTTP
+    url: http://fg.mi.citybook.co.il
+    __dangerous__insecure: true
+  - name: FG MI TCP HTTPS
+    url: https://fg.mi.citybook.co.il
+    __dangerous__insecure: true
+    check: "tcp-ping"
+    __dangerous__insecure: true
+  - name: FG MI TCP HTTPS 443
+    url: https://fg.mi.citybook.co.il
+    check: "tcp-ping"
+    port: 443
+    __dangerous__insecure: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
