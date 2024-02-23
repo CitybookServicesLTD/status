@@ -9,26 +9,14 @@ sites:
     url: https://www.thetimenow.com/
   - name: Citybook Help
     url: https://help.citybook.co.il
-  - name: FG MI HTTPS
+  - name: FG MI HTTPS ping
     url: https://fg.mi.citybook.co.il
-    expectedStatusCodes:
-      - 0
+    check: "ws"
     __dangerous__insecure: true
-  - name: FG MI HTTPS secure
-    url: https://fg.mi.citybook.co.il
-    expectedStatusCodes:
-      - 0
   - name: FG MMI HTTPS
     url: https://fg.mmi.citybook.co.il
     expectedStatusCodes:
       - 0
-    __dangerous__insecure: true
-  - name: FG MI HTTPS allow 500
-    url: https://fg.mi.citybook.co.il
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 500
     __dangerous__insecure: true
 
 status-website:
