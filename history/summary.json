@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 269,
-    "timeDay": 269,
-    "timeWeek": 269,
-    "timeMonth": 269,
-    "timeYear": 269,
+    "time": 271,
+    "timeDay": 271,
+    "timeWeek": 271,
+    "timeMonth": 271,
+    "timeYear": 271,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 848,
-    "timeDay": 848,
-    "timeWeek": 848,
-    "timeMonth": 848,
-    "timeYear": 848,
+    "time": 839,
+    "timeDay": 839,
+    "timeWeek": 839,
+    "timeMonth": 839,
+    "timeYear": 839,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fg.mi.citybook.co.il.ico",
     "slug": "fg-mi-https-ping",
     "status": "down",
-    "uptime": "6.30%",
-    "uptimeDay": "6.30%",
-    "uptimeWeek": "6.30%",
-    "uptimeMonth": "6.30%",
-    "uptimeYear": "6.30%",
+    "uptime": "1.19%",
+    "uptimeDay": "1.19%",
+    "uptimeWeek": "1.19%",
+    "uptimeMonth": "1.19%",
+    "uptimeYear": "1.19%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-23": 97
+      "2024-02-23": 542
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fg.mmi.citybook.co.il.ico",
     "slug": "fg-mmi-https",
     "status": "down",
-    "uptime": "28.80%",
-    "uptimeDay": "28.80%",
-    "uptimeWeek": "28.80%",
-    "uptimeMonth": "28.80%",
-    "uptimeYear": "28.80%",
+    "uptime": "6.08%",
+    "uptimeDay": "6.08%",
+    "uptimeWeek": "6.08%",
+    "uptimeMonth": "6.08%",
+    "uptimeYear": "6.08%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-23": 85
+      "2024-02-23": 530
     }
   }
 ]
