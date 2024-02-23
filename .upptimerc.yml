@@ -11,13 +11,13 @@ sites:
     url: https://help.citybook.co.il
   - name: FG MI HTTPS
     url: https://fg.mi.citybook.co.il
-        expectedStatusCodes:
+    expectedStatusCodes:
       - 200
       - 201
     __dangerous__insecure: true
   - name: FG MI HTTPS allow 500
     url: https://fg.mi.citybook.co.il
-        expectedStatusCodes:
+    expectedStatusCodes:
       - 200
       - 201
       - 500
