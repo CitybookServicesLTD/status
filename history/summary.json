@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1032,
-    "timeDay": 1032,
-    "timeWeek": 1032,
-    "timeMonth": 1032,
-    "timeYear": 1032,
+    "time": 994,
+    "timeDay": 994,
+    "timeWeek": 994,
+    "timeMonth": 994,
+    "timeYear": 994,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 271,
-    "timeDay": 271,
-    "timeWeek": 271,
-    "timeMonth": 271,
-    "timeYear": 271,
+    "time": 261,
+    "timeDay": 261,
+    "timeWeek": 261,
+    "timeMonth": 261,
+    "timeYear": 261,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 842,
-    "timeDay": 842,
-    "timeWeek": 842,
-    "timeMonth": 842,
-    "timeYear": 842,
+    "time": 828,
+    "timeDay": 828,
+    "timeWeek": 828,
+    "timeMonth": 828,
+    "timeYear": 828,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fg.mi.citybook.co.il.ico",
     "slug": "fg-mi-https-ping",
     "status": "down",
-    "uptime": "12.15%",
-    "uptimeDay": "12.15%",
-    "uptimeWeek": "12.15%",
-    "uptimeMonth": "12.15%",
-    "uptimeYear": "12.15%",
+    "uptime": "11.13%",
+    "uptimeDay": "11.13%",
+    "uptimeWeek": "11.13%",
+    "uptimeMonth": "11.13%",
+    "uptimeYear": "11.13%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-23": 47
+      "2024-02-23": 52
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fg.mmi.citybook.co.il.ico",
     "slug": "fg-mmi-https",
     "status": "down",
-    "uptime": "49.36%",
-    "uptimeDay": "49.36%",
-    "uptimeWeek": "49.36%",
-    "uptimeMonth": "49.36%",
-    "uptimeYear": "49.36%",
+    "uptime": "46.10%",
+    "uptimeDay": "46.10%",
+    "uptimeWeek": "46.10%",
+    "uptimeMonth": "46.10%",
+    "uptimeYear": "46.10%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-23": 35
+      "2024-02-23": 40
     }
   }
 ]
