@@ -12,8 +12,7 @@ sites:
   - name: FG MI HTTPS
     url: https://fg.mi.citybook.co.il
     expectedStatusCodes:
-      - 200
-      - 201
+      - 0
     __dangerous__insecure: true
   - name: FG MI HTTPS allow 500
     url: https://fg.mi.citybook.co.il
