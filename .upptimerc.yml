@@ -11,12 +11,11 @@ sites:
     url: https://help.citybook.co.il
   - name: FG MI HTTPS ping
     url: https://fg.mi.citybook.co.il
-    check: "ws"
+    check: "ping"
     __dangerous__insecure: true
   - name: FG MMI HTTPS
     url: https://fg.mmi.citybook.co.il
-    expectedStatusCodes:
-      - 0
+    check: "ping"
     __dangerous__insecure: true
 
 status-website:
