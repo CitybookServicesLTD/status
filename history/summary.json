@@ -70,7 +70,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-25": 21,
+      "2024-02-25": 36,
       "2024-02-24": 1440,
       "2024-02-23": 1246
     }
@@ -81,18 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fg.mmi.citybook.co.il.ico",
     "slug": "fg-mmi-https",
     "status": "down",
-    "uptime": "1.26%",
+    "uptime": "1.25%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "1.26%",
-    "uptimeMonth": "1.26%",
-    "uptimeYear": "1.26%",
+    "uptimeWeek": "1.25%",
+    "uptimeMonth": "1.25%",
+    "uptimeYear": "1.25%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-25": 21,
+      "2024-02-25": 36,
       "2024-02-24": 1440,
       "2024-02-23": 1234
     }
