@@ -12,11 +12,9 @@ sites:
   - name: FG MI HTTPS ping
     url: https://fg.mi.citybook.co.il
     check: "ping"
-    __dangerous__insecure: true
   - name: FG MMI HTTPS
     url: https://fg.mmi.citybook.co.il
     check: "ping"
-    __dangerous__insecure: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
