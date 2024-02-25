@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 927,
-    "timeDay": 868,
-    "timeWeek": 927,
-    "timeMonth": 927,
-    "timeYear": 927,
+    "time": 908,
+    "timeDay": 814,
+    "timeWeek": 908,
+    "timeMonth": 908,
+    "timeYear": 908,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 263,
-    "timeDay": 260,
-    "timeWeek": 263,
-    "timeMonth": 263,
-    "timeYear": 263,
+    "time": 258,
+    "timeDay": 246,
+    "timeWeek": 258,
+    "timeMonth": 258,
+    "timeYear": 258,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 827,
-    "timeDay": 806,
-    "timeWeek": 827,
-    "timeMonth": 827,
-    "timeYear": 827,
+    "time": 837,
+    "timeDay": 835,
+    "timeWeek": 837,
+    "timeMonth": 837,
+    "timeYear": 837,
     "dailyMinutesDown": {}
   },
   {
@@ -70,7 +70,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-25": 133,
+      "2024-02-25": 148,
       "2024-02-24": 1440,
       "2024-02-23": 1246
     }
@@ -81,18 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fg.mmi.citybook.co.il.ico",
     "slug": "fg-mmi-https",
     "status": "down",
-    "uptime": "1.21%",
+    "uptime": "1.20%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "1.21%",
-    "uptimeMonth": "1.21%",
-    "uptimeYear": "1.21%",
+    "uptimeWeek": "1.20%",
+    "uptimeMonth": "1.20%",
+    "uptimeYear": "1.20%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-25": 133,
+      "2024-02-25": 148,
       "2024-02-24": 1440,
       "2024-02-23": 1234
     }
