@@ -4,19 +4,19 @@
     "url": "https://quickapps.ca",
     "icon": "https://icons.duckduckgo.com/ip3/quickapps.ca.ico",
     "slug": "quick-apps",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 879,
-    "timeDay": 1416,
-    "timeWeek": 961,
-    "timeMonth": 879,
-    "timeYear": 879,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 872,
+    "timeDay": 994,
+    "timeWeek": 905,
+    "timeMonth": 872,
+    "timeYear": 872,
     "dailyMinutesDown": {
-      "2024-03-14": 0
+      "2024-03-14": 7
     }
   },
   {
@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-14": 212,
+      "2024-03-14": 220,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
@@ -112,7 +112,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-14": 213,
+      "2024-03-14": 220,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
