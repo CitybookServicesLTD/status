@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 824,
-    "timeDay": 787,
-    "timeWeek": 787,
-    "timeMonth": 787,
-    "timeYear": 824,
+    "time": 825,
+    "timeDay": 797,
+    "timeWeek": 797,
+    "timeMonth": 797,
+    "timeYear": 825,
     "dailyMinutesDown": {}
   },
   {
@@ -34,5 +34,25 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Notification Test",
+    "url": "https://sdfgklh78459eiwerftg.com",
+    "icon": "https://icons.duckduckgo.com/ip3/sdfgklh78459eiwerftg.com.ico",
+    "slug": "notification-test",
+    "status": "down",
+    "uptime": "10.49%",
+    "uptimeDay": "10.49%",
+    "uptimeWeek": "10.49%",
+    "uptimeMonth": "10.49%",
+    "uptimeYear": "10.49%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-06-06": 0
+    }
   }
 ]
