@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fg.mi.citybook.co.il.ico",
     "slug": "forti-gate-ping",
     "status": "up",
-    "uptime": "2.79%",
-    "uptimeDay": "2.79%",
-    "uptimeWeek": "2.79%",
-    "uptimeMonth": "2.79%",
-    "uptimeYear": "2.79%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-06-06": 15
-    }
+    "dailyMinutesDown": {}
   }
 ]
