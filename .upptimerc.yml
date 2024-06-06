@@ -26,7 +26,5 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-  NOTIFICATION_TEAMS: true
-  NOTIFICATION_TEAMS_WEBHOOK_URL:  ${{ secrets.TEAMS_WEBHOOK_URL }}
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
