@@ -17,7 +17,7 @@ status-website:
   logoUrl: https://citybook.co.il/images/CB-logo.png
   name: Citybook Status
   introTitle: "**Citybook** internal IT status page, powered by GitHub."
-  introMessage: This is the Citybook status page which uses **real-time** data from our [GitHub repository](https://github.com/CitybookServicesLTD/status-monitor).<br>No server required — just GitHub Actions, Issues, and Pages.<br>In case one of the sites is down, it will automatically create a Github Issue, and will send a Teams Message to the [Status Down Channel](https://teams.microsoft.com/l/channel/19%3Adada7853c0c54bc3a533709479637264%40thread.tacv2/Status%20Down?groupId=86fe4482-d1f1-43b1-a039-566769c3bccf&tenantId=bbfeea83-3c0f-4fcc-838e-a0848f3fcb93&ngc=true).
+  introMessage: This is the Citybook status page which uses **real-time** data monitored by GitHub Actions.<br><br>In case one of the sites is down, it will automatically create a Github Issue, and will send a Teams Message to the [Status Down Channel](https://teams.microsoft.com/l/channel/19%3Adada7853c0c54bc3a533709479637264%40thread.tacv2/Status%20Down?groupId=86fe4482-d1f1-43b1-a039-566769c3bccf&tenantId=bbfeea83-3c0f-4fcc-838e-a0848f3fcb93&ngc=true).
   navbar:
     - title: Status
       href: /
