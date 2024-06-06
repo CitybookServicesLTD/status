@@ -8,7 +8,7 @@ sites:
   - name: FortiGate Ping
     url: https://fg.mi.citybook.co.il
     check: "ping"
-  - name: Notification Test
+  - name: Test
     url: https://sdfgklh78459eiwerftg.com
 
 status-website:
