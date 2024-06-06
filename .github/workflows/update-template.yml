@@ -11,7 +11,7 @@
 
 # * Source: https://github.com/CitybookServicesLTD/status
 # * Docs and more: https://upptime.js.org
-# * More by Anand Chowdhary: https://anandchowdhary.com, Edited by Jacob Spitzer
+# * More by Anand Chowdhary: https://anandchowdhary.com
 
 
 name: Update Template CI
@@ -32,7 +32,7 @@ jobs:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT || github.token }}
       - name: Update template
-        uses: CitybookServicesLTD/status-monitor@master
+        uses: upptime/uptime-monitor@master
         with:
           command: "update-template"
         env:
