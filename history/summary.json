@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 832,
-    "timeDay": 894,
-    "timeWeek": 894,
-    "timeMonth": 894,
-    "timeYear": 832,
+    "time": 827,
+    "timeDay": 802,
+    "timeWeek": 802,
+    "timeMonth": 802,
+    "timeYear": 827,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://fg.mi.citybook.co.il",
     "icon": "https://icons.duckduckgo.com/ip3/fg.mi.citybook.co.il.ico",
     "slug": "forti-gate-ping",
-    "status": "down",
-    "uptime": "9.64%",
-    "uptimeDay": "9.64%",
-    "uptimeWeek": "9.64%",
-    "uptimeMonth": "9.64%",
-    "uptimeYear": "9.64%",
+    "status": "up",
+    "uptime": "2.79%",
+    "uptimeDay": "2.79%",
+    "uptimeWeek": "2.79%",
+    "uptimeMonth": "2.79%",
+    "uptimeYear": "2.79%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-06": 3
+      "2024-06-06": 15
     }
   }
 ]
