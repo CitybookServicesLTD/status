@@ -26,5 +26,5 @@ status-website:
     - title: Issues
       href: https://github.com/$OWNER/$REPO/issues
 
-# Upptime also supports notifications, assigning issues, and more
+# Upptime also supports notifications, assigning issues, and more.
 # See https://upptime.js.org/docs/configuration
