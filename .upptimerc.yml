@@ -8,8 +8,6 @@ sites:
   - name: FortiGate Ping
     url: https://fg.mi.citybook.co.il
     check: "ping"
-  - name: Test
-    url: https://sdfgklh78459eiwerftg.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -18,11 +16,13 @@ status-website:
   baseUrl: /status
   logoUrl: https://citybook.co.il/images/CB-logo.png
   name: Citybook Status
-  introTitle: "**Citybook** status page, powered by GitHub."
-  introMessage: This is the Citybook status page which uses **real-time** data from our [GitHub repository](https://github.com/CitybookServicesLTD/status-monitor). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Citybook** internal IT status page, powered by GitHub."
+  introMessage: This is the Citybook status page which uses **real-time** data from our [GitHub repository](https://github.com/CitybookServicesLTD/status-monitor). No server required — just GitHub Actions, Issues, and Pages.
   navbar:
     - title: Status
       href: /
+    - title: FortiGate
+      href: https://fg.mi.citybook.co.il
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
