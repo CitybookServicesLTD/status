@@ -25,7 +25,7 @@ status-website:
       href: https://fg.mi.citybook.co.il
     - title: Issues
       href: https://github.com/$OWNER/$REPO/issues
-  i18n:
+i18n:
   footer: © Citybook Services LTD
 
 # Upptime also supports notifications, assigning issues, and more.
