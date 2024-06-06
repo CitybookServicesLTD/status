@@ -12,9 +12,6 @@ sites:
   - name: FG MI HTTPS ping
     url: https://fg.mi.citybook.co.il
     check: "ping"
-  - name: FG MMI HTTPS
-    url: https://fg.mmi.citybook.co.il
-    check: "ping"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
