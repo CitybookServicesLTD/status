@@ -8,6 +8,8 @@ sites:
   - name: FortiGate Ping
     url: https://fg.mi.citybook.co.il
     check: "ping"
+  - name: Notification Test
+    url: https://sdfgklh78459eiwerftg.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -25,6 +27,6 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
   NOTIFICATION_TEAMS: true
-  NOTIFICATION_TEAMS_WEBHOOK_URL: https://madisonremotecom.webhook.office.com/webhookb2/86fe4482-d1f1-43b1-a039-566769c3bccf@bbfeea83-3c0f-4fcc-838e-a0848f3fcb93/IncomingWebhook/866667cdddc34dceb3bc7beab1c9e63d/42c276e4-98fe-429f-bb32-8aeb5ea7bfbe
+  NOTIFICATION_TEAMS_WEBHOOK_URL:  ${{ secrets.TEAMS_WEBHOOK_URL }}
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
