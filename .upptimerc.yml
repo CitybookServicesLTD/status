@@ -3,9 +3,9 @@ owner: CitybookServicesLTD # Your GitHub organization or username, where this re
 repo: status # The name of this repository
 
 sites:
-  - name: Citybook Help
+  - name: help.citybook.co.il
     url: https://help.citybook.co.il
-  - name: FortiGate Ping
+  - name: Ping fg.mi.citybook.co.il
     url: https://fg.mi.citybook.co.il
     check: "ping"
 
