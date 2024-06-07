@@ -9,6 +9,7 @@ sites:
   - name: Ping fg.mi.citybook.co.il
     url: https://fg.mi.citybook.co.il
     check: "ping"
+    maxResponseTime: 6000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
