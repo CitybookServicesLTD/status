@@ -2,7 +2,7 @@
   {
     "name": "help.citybook.co.il",
     "url": "https://help.citybook.co.il",
-    "icon": "https://icons.duckduckgo.com/ip3/help.citybook.co.il.ico",
+    "icon": "https://citybook.co.il/images/CB-logo.png",
     "slug": "help-citybook-co-il",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 804,
-    "timeDay": 804,
-    "timeWeek": 804,
-    "timeMonth": 804,
-    "timeYear": 804,
+    "time": 825,
+    "timeDay": 825,
+    "timeWeek": 825,
+    "timeMonth": 825,
+    "timeYear": 825,
     "dailyMinutesDown": {}
   },
   {
@@ -28,31 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 98,
+    "timeDay": 98,
+    "timeWeek": 98,
+    "timeMonth": 98,
+    "timeYear": 98,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "quickapps.ca",
-    "url": "https://quickapps.ca",
-    "icon": "https://icons.duckduckgo.com/ip3/quickapps.ca.ico",
-    "slug": "quickapps-ca",
-    "status": "up",
-    "uptime": "53.32%",
-    "uptimeDay": "53.32%",
-    "uptimeWeek": "53.32%",
-    "uptimeMonth": "53.32%",
-    "uptimeYear": "53.32%",
-    "time": 773,
-    "timeDay": 773,
-    "timeWeek": 773,
-    "timeMonth": 773,
-    "timeYear": 773,
-    "dailyMinutesDown": {
-      "2024-06-07": 34
-    }
   }
 ]
