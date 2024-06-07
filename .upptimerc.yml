@@ -5,11 +5,10 @@ repo: status # The name of this repository
 sites:
   - name: help.citybook.co.il
     url: https://help.citybook.co.il
+    icon: https://citybook.co.il/images/CB-logo.png
   - name: Ping fg.mi.citybook.co.il
     url: https://fg.mi.citybook.co.il
     check: "ping"
-  - name: quickapps.ca
-    url: https://quickapps.ca
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -18,8 +17,8 @@ status-website:
   # baseUrl: /status
   logoUrl: https://citybook.co.il/images/CB-logo.png
   name: Citybook Status Page
-  introTitle: "**Citybook** internal IT status page, powered by GitHub."
-  introMessage: Citybook status page which uses **real-time** monitor by GitHub Actions.<br><br>In case one of the sites is down, it will automatically create a Github Issue, and will send a Teams Message to the [Status Down Channel](https://teams.microsoft.com/l/channel/19%3Adada7853c0c54bc3a533709479637264%40thread.tacv2/Status%20Down?groupId=86fe4482-d1f1-43b1-a039-566769c3bccf&tenantId=bbfeea83-3c0f-4fcc-838e-a0848f3fcb93&ngc=true).
+  introTitle: "**Citybook status page**"
+  introMessage: Citybook status page which uses **real-time** monitor by GitHub Actions.<br><br>In case one of the sites is down, it will automatically create a Github Issue, and will send a Teams Message to the [Status Monitor Channel](https://teams.microsoft.com/l/channel/19%3Adada7853c0c54bc3a533709479637264%40thread.tacv2/Status%20Down?groupId=86fe4482-d1f1-43b1-a039-566769c3bccf&tenantId=bbfeea83-3c0f-4fcc-838e-a0848f3fcb93&ngc=true).
   navbar:
     - title: Status
       href: /
