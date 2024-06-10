@@ -8,10 +8,10 @@ sites:
     icon: https://citybook.co.il/images/CB-logo.png
   - name: Ping fg.citybook.co.il
     url: https://fg.mi.citybook.co.il
-    check: "ping"
+    check: "ws"
   - name: Ping JLM FG
     url: https://fgg.jlmm.citybook.co.il/
-    check: "ping"
+    check: "ws"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
