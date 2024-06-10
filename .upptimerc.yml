@@ -6,7 +6,7 @@ sites:
   - name: help.citybook.co.il
     url: https://help.citybook.co.il
     icon: https://citybook.co.il/images/CB-logo.png
-  - name: Ping fg.mi.citybook.co.il
+  - name: Ping fg.citybook.co.il
     url: https://fg.mi.citybook.co.il
     check: "ping"
 
