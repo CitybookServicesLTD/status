@@ -8,6 +8,7 @@ sites:
     icon: https://citybook.co.il/images/CB-logo.png
   - name: Ping fortigate
     url: https://fg.mi.citybook.co.il
+    icon: https://www.fortinet.com/content/dam/fortinet/images/favicon/favicon.ico
     check: "ping"
 
 status-website:
