@@ -9,6 +9,9 @@ sites:
   - name: Ping fg.citybook.co.il
     url: https://fg.mi.citybook.co.il
     check: "ping"
+  - name: Ping JLM FG
+    url: https://fg.jlm.citybook.co.il/
+    check: "ping"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
