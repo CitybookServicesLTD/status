@@ -10,7 +10,7 @@ sites:
     url: https://fg.mi.citybook.co.il
     check: "ping"
   - name: Ping JLM FG
-    url: https://fg.jlm.citybook.co.il/
+    url: https://fgg.jlmm.citybook.co.il/
     check: "ping"
 
 status-website:
