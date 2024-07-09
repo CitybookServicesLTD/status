@@ -24,8 +24,6 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: FortiGate
-      href: https://fg.mi.citybook.co.il
     - title: Issues
       href: https://github.com/$OWNER/$REPO/issues
 i18n:
